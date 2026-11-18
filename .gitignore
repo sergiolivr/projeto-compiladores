@@ -1,0 +1,14 @@
+# Build artifacts
+*.jar
+build_temp/
+bin/
+out/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
